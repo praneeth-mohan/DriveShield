@@ -34,7 +34,14 @@ Try website   https://praneeth-mohan.github.io/DriveShield/
 <img width="1366" height="768" alt="18" src="https://github.com/user-attachments/assets/1aa2fe57-768f-4db8-bf13-4aaa88984238" />
 
 
-virus total link 
+virus total link [driveshield.pdf](https://github.com/user-attachments/files/26246184/driveshield.pdf)
 
+ 
 https://github.com/user-attachments/assets/9926ea3d-c0b8-4520-8f4e-e0824cbc92f7
+q r code
+<img width="490" height="490" alt="driveshield_qr_final" src="https://github.com/user-attachments/assets/b0af934b-dceb-442c-a91f-cfc6006b3745" />
+<img width="490" height="490" alt="driveshield_website_qr_redone" src="https://github.com/user-attachments/assets/cf53040c-e8b1-482e-bb86-182d657d8774" />
+
+  [DriveShield.pptx](https://github.com/user-attachments/files/26246169/DriveShield.pptx)
+
 
