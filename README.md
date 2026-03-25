@@ -1,47 +1,186 @@
-# DriveShield
-<img width="512" height="512" alt="icon-512" src="https://github.com/user-attachments/assets/39558770-c8f3-4a35-8d6c-bf8efed2237e" />
-DriveShield is a smart emergency alert system that lets users manually trigger an SOS after a crash. When airbags deploy, the app activates, sending real-time location and alerts to nearby hospitals, police, and fire services—helping save lives faster.
+<p align="center">
+  <a href="https://github.com/user-attachments/DriveShield/releases">
+    <img src="https://github.com/user-attachments/assets/39558770-c8f3-4a35-8d6c-bf8efed2237e" width="120" alt="DriveShield Logo">
+  </a>
+  <br>
+  <b>DriveShield – Smart Emergency Alert System</b>
+</p>
 
-Road traffic accidents are a major global concern, with delayed emergency response often being the difference between life and death. Victims may be incapacitated or disoriented, leaving them unable to seek timely help. DriveShield is proposed as a manual SOS-based emergency alert system designed to empower accident victims and bridge the gap between crashes and emergency services.
-The system integrates with vehicle safety mechanisms and enables conscious victims to trigger a manual SOS alert through a user-friendly mobile application. Once activated, it transmits real-time location data and simultaneously notifies hospitals, police, and fire stations. The solution is built on robust technological foundations, incorporating ADAS (Advanced Driver-Assistance Systems) for crash detection, GPS for accurate tracking, GSM/LTE for reliable communication, and cloud storage for secure data management.
-Core features include manual SOS activation, multi-contact emergency alerts, real-time location sharing, and reliable connectivity even in remote areas. Prototype demonstrations show victims logging in with vehicle details, adding emergency contacts, and activating the SOS function, which initiates siren feedback and sends alerts. The system also provides directions to nearby hospitals, further enhancing its effectiveness.
-Future enhancements include auto-trigger SOS for unconscious victims, AI-based crash severity analysis, voice-activated controls, and smartwatch integration to detect vitals.
-In summary, the system offers a practical, reliable, and life-saving solution by drastically reducing response times in post-crash scenarios. Its guiding principle remains clear: “saving minutes, saving lives.”
+<!-- 🔥 TRY WEB ADDED -->
+<p align="center">
+  <a href="https://praneeth-mohan.github.io/DriveShield/">
+    <img src="https://img.shields.io/badge/Try-Live_Web_App-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+</p>
 
-Keywords:
-Emergency Response, Post-Crash Safety, SOS Alert System, Crash Detection, Smart Safety Systems
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0.0-008080?style=for-the-badge" alt="Version">
+  <a href="https://github.com/user-attachments/DriveShield/releases">
+    <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> 
+  </a>
+  <a href="https://github.com/user-attachments/files/26246184/driveshield.pdf">
+    <img src="https://img.shields.io/badge/Security-VirusTotal%20Verified-brightgreen?style=for-the-badge" alt="Security">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/DriveShield/releases">
+    <img src="https://img.shields.io/badge/Download-Obtainium-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Obtainium">
+  </a>
+  <a href="https://github.com/user-attachments/DriveShield/releases">
+    <img src="https://img.shields.io/badge/Download-Android_APK-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" width="100%" alt="DriveShield Banner">
+</p>
+
+### 📂 Navigation Menu
+
+1. [Introduction](#1-introduction)
+2. [Why DriveShield?](#2-why-driveshield)
+3. [Core Features](#3-use-of-driveshield)
+4. [Tech Stack](#4-technology-of-driveshield)
+5. [Web Demo](#5-try-web)
+6. [Download & Install](#6-install-the-driveshield)
+7. [Screenshots](#7-screenshots)
+8. [Security Report](#9-virus-total-pdf)
+9. [Presentation Deck](#10-ppt)
+10. [Video Demo](#11-video-demo)
+11. [DriveShield vs Standard Safety Systems](#12-driveshield-vs-standard-safety)
+13. [QR Code to Try](#14-qr-code-to-try)
+
+---
+
+## 1. Introduction 🚗💡
+**DriveShield** is a smart emergency alert system designed to save lives by reducing response times after a crash. By enabling victims to trigger an SOS manually, the system sends real-time alerts to emergency services, ensuring help arrives faster.
+
+---
+
+## 2. Why DriveShield? ❓⚠️
+Road traffic accidents often result in delayed emergency responses, which significantly impact survival rates. **DriveShield** aims to bridge this gap by allowing victims to manually trigger an SOS alert after an accident, even when they are disoriented or incapacitated.
+
+---
+
+## 3. Core Features 🚨📍
+- **Manual SOS Activation:** Empowering victims to initiate alerts after an accident.
+- **Real-Time Location Sharing:** Precise location data sent to emergency services.
+- **Multiple Emergency Contacts:** Alerts sent to hospitals, police, and fire stations simultaneously.
+- **Reliable Connectivity:** Works even in remote areas with GSM/LTE communication.
+
+---
+
+## 4. Technology of DriveShield 💻🔧
+- **Crash Detection:** Integrated with ADAS (Advanced Driver Assistance Systems).
+- **Real-Time Tracking:** GPS for precise location tracking.
+- **Backend:** Cloud database and mobile application for seamless operation.
+- **Communication:** GSM/LTE for reliable cellular transmission.
+
+---
+
+## 5. Try Web 🌐🚀
+Experience the web version live:  
+👉 [**Launch DriveShield Web App**](https://praneeth-mohan.github.io/DriveShield/)
+
+---
+
+## 6. Install the DriveShield 📥📱
+Click below to download the app:
+| Platform | Download |
+| :---: | :---: |
+| 📱 Android (APK) | [Download from Releases](https://github.com/user-attachments/DriveShield/releases) |
+
+---
+
+## 7. Screenshots 📸
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb036aed-a536-4ec9-bad5-f49b93fd6548" width="48%" />
+  <img src="https://github.com/user-attachments/assets/abf79346-f64b-4830-98ed-26e61e32cc3d" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0bb9f65c-c036-4ffe-955e-8fa7f0f94484" width="48%" />
+  <img src="https://github.com/user-attachments/assets/b70d3115-c529-417a-a46b-485a1f14cb7a" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/68d5f981-aeb6-4f61-8bde-de12694f52e5" width="48%" />
+  <img src="https://github.com/user-attachments/assets/459005c8-4245-4e8a-9a63-03b6459491e6" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b64f4d31-64e7-4092-b380-6d19274d1222" width="48%" />
+  <img src="https://github.com/user-attachments/assets/f90ab25c-fd59-4a5d-96bb-1461256f7da0" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f335d673-30ba-4a59-b176-25ed36e1cf0e" width="48%" />
+  <img src="https://github.com/user-attachments/assets/13a2e561-cbcc-4db0-8d74-5d451faf9dfc" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ca76bf4-6df1-42a4-8199-0bb6e8a23159" width="48%" />
+  <img src="https://github.com/user-attachments/assets/cf6e42b0-41d8-4ac3-90c1-638c3651a489" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56ed3260-0834-4f4e-a3bd-2eb7481e9ebd" width="48%" />
+  <img src="https://github.com/user-attachments/assets/377831b5-b5ae-4ca7-8b1b-a5c181766df1" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bdc121f5-7628-46e0-804a-bcb6a54802c6" width="48%" />
+  <img src="https://github.com/user-attachments/assets/73f4a6f4-7147-40c5-9620-76b053b6d714" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1aa2fe57-768f-4db8-bf13-4aaa88984238" width="48%" />
+</p>
+
+---
+
+## 8. Virus Total PDF 🛡️📄
+[**View Security Scan Report (PDF)**](https://github.com/user-attachments/files/26246184/driveshield.pdf)
+
+---
+
+## 9. PPT 📊📑
+Official pitch deck for **DriveShield**:  
+- 📊 [**Download DriveShield.pptx**](https://github.com/user-attachments/files/26246169/DriveShield.pptx)
+
+---
+
+## 10. Video Demo 🎬👀
+Watch the full demonstration video:  
+- 🎥 [**Watch the Demonstration Video**]
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20-Click%20Here-red?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 11. DriveShield vs Standard Safety Systems ⚖️🆚
+
+| Feature / Aspect | DriveShield | Standard Systems |
+|------------------|-------------|------------------|
+| **Activation**   | Manual SOS trigger | Passive crash detection |
+| **Communication**| Real-time alerts to emergency services | Delayed response |
+| **Location**     | GPS-based real-time tracking | Limited or delayed location sharing |
+| **Reach**        | Works in remote areas | Dependent on local infrastructure |
+
+---
 
 
-Try website   https://praneeth-mohan.github.io/DriveShield/
+---
 
+<details>
+<summary><b>
+ ## 12. QR Code to Try 📱🔍</b></summary>
+<p align="center">
+  <img width="980" height="980" alt="DriveShield QR" src="https://github.com/user-attachments/assets/0e83915e-80ac-4a07-bed0-7bf1405c1c18" />
+ " />
+</p>
+ <p align="center">
+  <img width="980" height="980" alt="DriveShield QR" src=" "<img width="490" height="490" alt="driveshield_website_qr_redone" src="https://github.com/user-attachments/assets/77b01218-cfb0-424c-944b-8d6c5aae5667" />
+ />
+</details>
 
-<img width="1366" height="768" alt="1" src="https://github.com/user-attachments/assets/bb036aed-a536-4ec9-bad5-f49b93fd6548" />
-<img width="1366" height="768" alt="2" src="https://github.com/user-attachments/assets/abf79346-f64b-4830-98ed-26e61e32cc3d" />
-<img width="1366" height="768" alt="4" src="https://github.com/user-attachments/assets/0bb9f65c-c036-4ffe-955e-8fa7f0f94484" />
-<img width="1366" height="768" alt="5" src="https://github.com/user-attachments/assets/b70d3115-c529-417a-a46b-485a1f14cb7a" />
-<img width="1366" height="768" alt="6" src="https://github.com/user-attachments/assets/68d5f981-aeb6-4f61-8bde-de12694f52e5" />
-<img width="1366" height="768" alt="7" src="https://github.com/user-attachments/assets/459005c8-4245-4e8a-9a63-03b6459491e6" />
-<img width="1366" height="768" alt="8" src="https://github.com/user-attachments/assets/b64f4d31-64e7-4092-b380-6d19274d1222" />
-<img width="1366" height="768" alt="9" src="https://github.com/user-attachments/assets/f90ab25c-fd59-4a5d-96bb-1461256f7da0" />
-<img width="1366" height="768" alt="10" src="https://github.com/user-attachments/assets/f335d673-30ba-4a59-b176-25ed36e1cf0e" />
-<img width="1366" height="768" alt="11" src="https://github.com/user-attachments/assets/13a2e561-cbcc-4db0-8d74-5d451faf9dfc" />
-<img width="1366" height="768" alt="12" src="https://github.com/user-attachments/assets/8ca76bf4-6df1-42a4-8199-0bb6e8a23159" />
-<img width="1366" height="768" alt="13" src="https://github.com/user-attachments/assets/cf6e42b0-41d8-4ac3-90c1-638c3651a489" />
-<img width="1366" height="768" alt="14" src="https://github.com/user-attachments/assets/56ed3260-0834-4f4e-a3bd-2eb7481e9ebd" />
-<img width="1366" height="768" alt="15" src="https://github.com/user-attachments/assets/377831b5-b5ae-4ca7-8b1b-a5c181766df1" />
-<img width="1366" height="768" alt="16" src="https://github.com/user-attachments/assets/bdc121f5-7628-46e0-804a-bcb6a54802c6" />
-<img width="1366" height="768" alt="17" src="https://github.com/user-attachments/assets/73f4a6f4-7147-40c5-9620-76b053b6d714" />
-<img width="1366" height="768" alt="18" src="https://github.com/user-attachments/assets/1aa2fe57-768f-4db8-bf13-4aaa88984238" />
+---
 
-
-virus total link [driveshield.pdf](https://github.com/user-attachments/files/26246184/driveshield.pdf)
-
- 
-https://github.com/user-attachments/assets/9926ea3d-c0b8-4520-8f4e-e0824cbc92f7
-q r code
-<img width="490" height="490" alt="driveshield_qr_final" src="https://github.com/user-attachments/assets/b0af934b-dceb-442c-a91f-cfc6006b3745" />
-<img width="490" height="490" alt="driveshield_website_qr_redone" src="https://github.com/user-attachments/assets/cf53040c-e8b1-482e-bb86-182d657d8774" />
-
-  [DriveShield.pptx](https://github.com/user-attachments/files/26246169/DriveShield.pptx)
-
-
+<p align="center"><b>DriveShield - Saving Lives Through Smart Post-Crash Response</b></p>
