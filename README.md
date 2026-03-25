@@ -86,7 +86,7 @@ Experience the web version live:
 Click below to download the app:
 | Platform | Download |
 | :---: | :---: |
-| 📱 Android (APK) | [Download from Releases](https://github.com/user-attachments/DriveShield/releases) |
+| 📱 Android (APK) | [Download from Releases]( https://github.com/praneeth-mohan/DriveShield/releases) |
 
 
 ## 7. Screenshots 📸
