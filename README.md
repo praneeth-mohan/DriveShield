@@ -42,11 +42,11 @@
 5. [Web Demo](#5-try-web)
 6. [Download & Install](#6-install-the-driveshield)
 7. [Screenshots](#7-screenshots)
-8. [Security Report](#9-virus-total-pdf)
-9. [Presentation Deck](#10-ppt)
-10. [Video Demo](#11-video-demo)
-11. [DriveShield vs Standard Safety Systems](#12-driveshield-vs-standard-safety)
-13. [QR Code to Try](#14-qr-code-to-try)
+8. [Security Report](#8-virus-total-pdf)
+9. [Presentation Deck](#9-ppt)
+10. [Video Demo](#10-video-demo)
+11. [DriveShield vs Standard Safety Systems](#11-driveshield-vs-standard-safety)
+13. [QR Code to Try](#12-qr-code-to-try)
 
 ---
 
