@@ -32,9 +32,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dcb5de9b-79ee-41f2-9145-eb3cb4837d47" width="100%" alt="DriveShield Banner">
-</p>
 
 ### 📂 Navigation Menu
 
