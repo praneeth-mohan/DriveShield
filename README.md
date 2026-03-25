@@ -175,7 +175,8 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
  " />
 </p>
  <p align="center">
-  <img width="980" height="980" alt="DriveShield QR" src=" "<img width="490" height="490" alt="driveshield_website_qr_redone" src="https://github.com/user-attachments/assets/77b01218-cfb0-424c-944b-8d6c5aae5667" />
+  <img width="980" height="980" alt="DriveShield QR" src=" <https://github.com/user-attachments/assets/861767c3-7bb0-4a62-91bb-2863c1d286d8" />
+  " />
  />
 </details>
 
