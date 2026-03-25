@@ -53,12 +53,12 @@
 ## 1. Introduction 🚗💡
 **DriveShield** is a smart emergency alert system designed to save lives by reducing response times after a crash. By enabling victims to trigger an SOS manually, the system sends real-time alerts to emergency services, ensuring help arrives faster.
 
----
+
 
 ## 2. Why DriveShield? ❓⚠️
 Road traffic accidents often result in delayed emergency responses, which significantly impact survival rates. **DriveShield** aims to bridge this gap by allowing victims to manually trigger an SOS alert after an accident, even when they are disoriented or incapacitated.
 
----
+
 
 ## 3. Core Features 🚨📍
 - **Manual SOS Activation:** Empowering victims to initiate alerts after an accident.
