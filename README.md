@@ -78,42 +78,66 @@ Click below to download the app:
 | :---: | :---: |
 | 📱 Android (APK) | [Download from Releases]( https://github.com/praneeth-mohan/DriveShield/releases) |
 
+
 ## <a id="screenshots"></a>7. Screenshots 📸
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bb036aed-a536-4ec9-bad5-f49b93fd6548" width="48%" />
+
+<details>
+  <summary>Click to view Screenshots </summary>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/bb036aed-a536-4ec9-bad5-f49b93fd6548" width="48%" />
+  </p>
+   <p align="center">
   <img src="https://github.com/user-attachments/assets/abf79346-f64b-4830-98ed-26e61e32cc3d" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0bb9f65c-c036-4ffe-955e-8fa7f0f94484" width="48%" />
-  <img src="https://github.com/user-attachments/assets/b70d3115-c529-417a-a46b-485a1f14cb7a" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/68d5f981-aeb6-4f61-8bde-de12694f52e5" width="48%" />
-  <img src="https://github.com/user-attachments/assets/459005c8-4245-4e8a-9a63-03b6459491e6" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b64f4d31-64e7-4092-b380-6d19274d1222" width="48%" />
-  <img src="https://github.com/user-attachments/assets/f90ab25c-fd59-4a5d-96bb-1461256f7da0" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f335d673-30ba-4a59-b176-25ed36e1cf0e" width="48%" />
-  <img src="https://github.com/user-attachments/assets/13a2e561-cbcc-4db0-8d74-5d451faf9dfc" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8ca76bf4-6df1-42a4-8199-0bb6e8a23159" width="48%" />
-  <img src="https://github.com/user-attachments/assets/cf6e42b0-41d8-4ac3-90c1-638c3651a489" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/56ed3260-0834-4f4e-a3bd-2eb7481e9ebd" width="48%" />
-  <img src="https://github.com/user-attachments/assets/377831b5-b5ae-4ca7-8b1b-a5c181766df1" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bdc121f5-7628-46e0-804a-bcb6a54802c6" width="48%" />
-  <img src="https://github.com/user-attachments/assets/73f4a6f4-7147-40c5-9620-76b053b6d714" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1aa2fe57-768f-4db8-bf13-4aaa88984238" width="48%" />
-</p>
+       </p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/0bb9f65c-c036-4ffe-955e-8fa7f0f94484" width="48%" />
+      </p>
+       <p align="center">
+    <img src="https://github.com/user-attachments/assets/b70d3115-c529-417a-a46b-485a1f14cb7a" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/68d5f981-aeb6-4f61-8bde-de12694f52e5" width="48%" />
+      </p>
+       <p align="center">
+    <img src="https://github.com/user-attachments/assets/459005c8-4245-4e8a-9a63-03b6459491e6" width="48%" />
+  </p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/b64f4d31-64e7-4092-b380-6d19274d1222" width="48%" />
+      </p>
+       <p align="center">
+    <img src="https://github.com/user-attachments/assets/f90ab25c-fd59-4a5d-96bb-1461256f7da0" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/f335d673-30ba-4a59-b176-25ed36e1cf0e" width="48%" />
+      </p>
+       <p align="center">
+    <img src="https://github.com/user-attachments/assets/13a2e561-cbcc-4db0-8d74-5d451faf9dfc" width="48%" />
+  </p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/8ca76bf4-6df1-42a4-8199-0bb6e8a23159" width="48%" />
+      </p>
+       <p align="center">
+    <img src="https://github.com/user-attachments/assets/cf6e42b0-41d8-4ac3-90c1-638c3651a489" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/56ed3260-0834-4f4e-a3bd-2eb7481e9ebd" width="48%" />
+      </p>
+       <p align="center">
+    <img src="https://github.com/user-attachments/assets/377831b5-b5ae-4ca7-8b1b-a5c181766df1" width="48%" />
+  </p>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/bdc121f5-7628-46e0-804a-bcb6a54802c6" width="48%" />
+       <p align="center">
+    <img src="https://github.com/user-attachments/assets/73f4a6f4-7147-40c5-9620-76b053b6d714" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/1aa2fe57-768f-4db8-bf13-4aaa88984238" width="48%" />
+  </p>
+</details>
 
 ## <a id="virus-total-pdf"></a>8. Virus Total PDF 🛡️📄
 [**View Security Scan Report (PDF)**](https://github.com/user-attachments/files/26246184/driveshield.pdf)
