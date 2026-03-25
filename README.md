@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-008080?style=for-the-badge" alt="Version">
   <a href="https://github.com/user-attachments/DriveShield/releases">
-    <img src="https://img.shields.io/badge/Platform-Android%20|%20Windows-blue?style=for-the-badge" alt="Platforms"> 
+    <img src="https://img.shields.io/badge/Platform-Android-blue?style=for-the-badge" alt="Platforms"> 
   </a>
   <a href="https://github.com/user-attachments/files/26246184/driveshield.pdf">
     <img src="https://img.shields.io/badge/Security-VirusTotal%20Verified-brightgreen?style=for-the-badge" alt="Security">
