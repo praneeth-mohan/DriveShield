@@ -126,6 +126,8 @@ Official pitch deck for **DriveShield**:
 Watch the full demonstration video:  
 - 🎥 [**Watch the Demonstration Video**]
 
+https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
+
 <p align="center">
   <a href="https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea">
     <img src="https://img.shields.io/badge/▶️%20Watch%20-Click%20Here-red?style=for-the-badge" />
