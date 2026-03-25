@@ -66,7 +66,7 @@ Road traffic accidents often result in delayed emergency responses, which signif
 - **Multiple Emergency Contacts:** Alerts sent to hospitals, police, and fire stations simultaneously.
 - **Reliable Connectivity:** Works even in remote areas with GSM/LTE communication.
 
----
+
 
 ## 4. Technology of DriveShield 💻🔧
 - **Crash Detection:** Integrated with ADAS (Advanced Driver Assistance Systems).
@@ -74,13 +74,13 @@ Road traffic accidents often result in delayed emergency responses, which signif
 - **Backend:** Cloud database and mobile application for seamless operation.
 - **Communication:** GSM/LTE for reliable cellular transmission.
 
----
+
 
 ## 5. Try Web 🌐🚀
 Experience the web version live:  
 👉 [**Launch DriveShield Web App**](https://praneeth-mohan.github.io/DriveShield/)
 
----
+
 
 ## 6. Install the DriveShield 📥📱
 Click below to download the app:
@@ -88,7 +88,6 @@ Click below to download the app:
 | :---: | :---: |
 | 📱 Android (APK) | [Download from Releases](https://github.com/user-attachments/DriveShield/releases) |
 
----
 
 ## 7. Screenshots 📸
 <p align="center">
@@ -127,18 +126,18 @@ Click below to download the app:
   <img src="https://github.com/user-attachments/assets/1aa2fe57-768f-4db8-bf13-4aaa88984238" width="48%" />
 </p>
 
----
+
 
 ## 8. Virus Total PDF 🛡️📄
 [**View Security Scan Report (PDF)**](https://github.com/user-attachments/files/26246184/driveshield.pdf)
 
----
+
 
 ## 9. PPT 📊📑
 Official pitch deck for **DriveShield**:  
 - 📊 [**Download DriveShield.pptx**](https://github.com/user-attachments/files/26246169/DriveShield.pptx)
 
----
+
 
 ## 10. Video Demo 🎬👀
 Watch the full demonstration video:  
@@ -150,7 +149,7 @@ Watch the full demonstration video:
   </a>
 </p>
 
----
+
 
 ## 11. DriveShield vs Standard Safety Systems ⚖️🆚
 
@@ -161,10 +160,10 @@ Watch the full demonstration video:
 | **Location**     | GPS-based real-time tracking | Limited or delayed location sharing |
 | **Reach**        | Works in remote areas | Dependent on local infrastructure |
 
----
 
 
----
+
+
 
 <details>
 <summary><b>
