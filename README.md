@@ -170,12 +170,13 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 
 <details>
 <summary><b>12. QR Code to Try 📱🔍</b></summary>
+     <p align="center">
+  <img width="980" height="980" alt="DriveShield QR" src="https://github.com/user-attachments/assets/861767c3-7bb0-4a62-91bb-2863c1d286d8" />
+ />
 <p align="center">
   <img width="980" height="980" alt="DriveShield QR" src="https://github.com/user-attachments/assets/0e83915e-80ac-4a07-bed0-7bf1405c1c18" />
 </p>
- <p align="center">
-  <img width="980" height="980" alt="DriveShield QR" src="https://github.com/user-attachments/assets/861767c3-7bb0-4a62-91bb-2863c1d286d8" />
- />
+
 </details>
 
 ---
