@@ -150,13 +150,12 @@ Official pitch deck for **DriveShield**:
 Watch the full demonstration video:  
 - 🎥 [**Watch the Demonstration Video**]
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea">
+  <a href=" https://github.com/user-attachments/assets/953b3b87-409a-4386-ae25-8d77b6b5af9e ">
     <img src="https://img.shields.io/badge/▶️%20Watch%20-Click%20Here-red?style=for-the-badge" />
   </a>
 </p>
 
-https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
-
+https://github.com/user-attachments/assets/953b3b87-409a-4386-ae25-8d77b6b5af9e
 
 
 ## <a id="driveshield-vs-standard-safety"></a>11. DriveShield vs Standard Safety Systems ⚖️🆚
@@ -172,7 +171,6 @@ https://github.com/user-attachments/assets/e45995f6-a1f2-4d94-8173-87927f20dbea
 <summary><b>12. QR Code to Try 📱🔍</b></summary>
      <p align="center">
   <img width="980" height="980" alt="DriveShield QR" src="https://github.com/user-attachments/assets/861767c3-7bb0-4a62-91bb-2863c1d286d8" />
- />
 <p align="center">
   <img width="980" height="980" alt="DriveShield QR" src="https://github.com/user-attachments/assets/0e83915e-80ac-4a07-bed0-7bf1405c1c18" />
 </p>
