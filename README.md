@@ -31,7 +31,19 @@
     <img src="https://img.shields.io/badge/Download-Android_APK-34A853?style=for-the-badge&logo=android&logoColor=white" alt="Android">
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/praneeth-mohan/DriveShield/releases">
+    <img src="https://raw.githubusercontent.com/praneeth-mohan/MediGuard-AI/main/badge_github.png" 
+         alt="Get it on GitHub" 
+         height="80">
+  </a>
+  
+  <a href="https://github.com/praneeth-mohan/DriveShield/releases">
+    <img src="https://raw.githubusercontent.com/praneeth-mohan/MediGuard-AI/main/direct-apk-download.png" 
+         alt="Direct APK Download" 
+         height="80">
+  </a>
+</p>
 
 ### 📂 Navigation Menu
 
