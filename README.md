@@ -58,7 +58,8 @@
 9. [Presentation Deck](#ppt)
 10. [Video Demo](#video-demo)
 11. [DriveShield vs Standard Safety Systems](#driveshield-vs-standard-safety)
-13. [QR Code to Try](#qr-code-to-try)
+12. [QR Code to Try](#qr-code-to-try)
+13. [Proprietary Rights, Data Privacy & System Integrity Charter](#13-proprietary-rights-data-privacy--system-integrity-charter)
 
 ---
 
@@ -190,5 +191,22 @@ https://github.com/user-attachments/assets/953b3b87-409a-4386-ae25-8d77b6b5af9e
 </details>
 
 ---
+## 13. Proprietary Rights, Data Privacy & System Integrity Charter
+
+### 💼 1. Proprietary Rights & Intellectual Property
+* **Ownership:** All source code, mapping logic architectures, UI/UX asset designs, and system documentation contained within this repository are the exclusive property of the project maintainers unless otherwise specified under upstream open-source licenses.
+* **Usage Restrictions:** Unauthorized duplication, reverse engineering of telemetry logic layers, or commercial redistribution without explicit written consent is strictly prohibited.
+
+### 🔒 2. Data Privacy & Location Confidentiality
+* **Zero-Retention Framework:** DriveShield is engineered around user safety and strict privacy. Incident data, distress logs, and GPS tracking routes are handled entirely in volatile memory during active emergency calls. No continuous user telemetry or location history is permanently logged, harvested, or stored after an event is resolved.
+* **Compliance Alignment:** The architectural data flow is designed to align with strict geolocation data compliance frameworks and global user confidentiality standards regarding data tracking and on-demand transmission anonymity.
+
+### 🛡️ 3. System Integrity & Security Assurance
+* **Proactive Vulnerability Scanning:** Every architecture release undergoes rigorous automated and manual security audits to prevent payload vulnerabilities, injection flaws, and telemetry drift.
+* **Malware & Tamper Verification:** Production builds are cryptographically validated to guarantee binary integrity, eliminating device profile supply chain risks.
+
+### 📄 Verification & Compliance Documentation
+---
+
 
 <p align="center"><b>DriveShield - Saving Lives Through Smart Post-Crash Response</b></p>
