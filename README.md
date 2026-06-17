@@ -205,7 +205,7 @@ https://github.com/user-attachments/assets/953b3b87-409a-4386-ae25-8d77b6b5af9e
 * **Proactive Vulnerability Scanning:** Every architecture release undergoes rigorous automated and manual security audits to prevent payload vulnerabilities, injection flaws, and telemetry drift.
 * **Malware & Tamper Verification:** Production builds are cryptographically validated to guarantee binary integrity, eliminating device profile supply chain risks.
 
-### 📄 Verification & Compliance Documentation
+### 📄 PROPRIETARY RIGHTS, DATA PRIVACY & SYSTEM INTEGRITY CHARTER
 <p align="center">
   <a href="https://github.com/praneeth-mohan/DriveShield/blob/main/DriveShield_PROPRIETARY%20RIGHTS%2C%20DATA%20PRIVACY%20%26%20SYSTEM%20INTEGRITY%20CHARTER.pdf">
     <img src="https://img.shields.io/badge/Compliance-Charter_PDF-blueviolet?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="DriveShield Compliance Charter">
