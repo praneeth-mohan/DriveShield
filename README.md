@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/39558770-c8f3-4a35-8d6c-bf8efed2237e" width="120" alt="DriveShield Logo">
+    <img src="https://github.com/praneeth-mohan/DriveShield/blob/main/icon-512.png" width="120" alt="DriveShield Logo">
   </a>
   <br>
   <b>DriveShield – Smart Emergency Alert System</b>
